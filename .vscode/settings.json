@@ -1,0 +1,9 @@
+{
+    "prettier.jsxBracketSameLine": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+    "prettier.useTabs": true,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": null,
+    "bracket-pair-colorizer-2.forceUniqueOpeningColor": true
+}
